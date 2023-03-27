@@ -6,6 +6,11 @@ bin-release/
 
 # Other files and folders
 .settings/
+cache
+development_secret.txt
+restart.txt
+sockets
+
 
 # Executables
 *.swf
