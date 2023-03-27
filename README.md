@@ -88,7 +88,7 @@ To setup and install this sample ROR Blog project, follow the below steps:
 - Clone this project by the command: 
 
 ```
-$ git clone https://github.com/UsirusenIkon/hello-rails-backend.git
+$ git clone https://github.com/UsirusenIkon/Hello-rails-backend.git
 ```
 
 - Then switch to the project folder by the bellow query:
